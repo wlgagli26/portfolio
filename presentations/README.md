@@ -6,6 +6,6 @@ Within this directory are slide decks from various presentations. Any projects c
 
 2. ## [Medical Image Classification for Early Disease using NIH CHESTX-ray14 (Project Pitch)](Group3_Susquehanna_ChestXray14_slides.pdf)
 
-3. ## [CMS Overspending on Prosthetic Services)](Final%20Project%20Presentation%20(PDF).pdf)
+3. ## [CMS Overspending on Prosthetic Services](Final%20Project%20Presentation%20(PDF).pdf)
 
 4. ## [Medical Image Classification for Early Disease using NIH CHESTX-ray14 (Final Presentation)](DSCI%20591%20Final%20Presentation%20(PDF).pdf)
